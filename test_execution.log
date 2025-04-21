@@ -1,0 +1,383 @@
+2025-04-18 13:03:31,811 - INFO - ====== WebDriver manager ======
+2025-04-18 13:03:33,974 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 13:03:34,236 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 13:03:34,437 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-18 13:03:40,191 - INFO - Старт 1-ого сценария
+2025-04-18 13:03:40,191 - INFO - Open SBIS
+2025-04-18 13:03:41,232 - INFO - Переход в секцию контакты
+2025-04-18 13:04:00,716 - INFO - Перый сценарий зевершен успешно
+2025-04-18 13:35:54,800 - INFO - ====== WebDriver manager ======
+2025-04-18 13:35:56,737 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 13:35:57,016 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 13:35:57,266 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-18 13:36:02,880 - INFO - Старт 1-ого сценария
+2025-04-18 13:36:02,880 - INFO - Open SBIS
+2025-04-18 13:36:03,959 - INFO - Переход в секцию контакты
+2025-04-18 13:50:03,331 - INFO - ====== WebDriver manager ======
+2025-04-18 13:50:04,982 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 13:50:05,246 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 13:50:05,525 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-18 13:50:10,835 - INFO - Старт 1-ого сценария
+2025-04-18 13:50:10,836 - INFO - Open SBIS
+2025-04-18 13:50:12,277 - INFO - Переход в секцию контакты
+2025-04-18 13:52:48,363 - INFO - ====== WebDriver manager ======
+2025-04-18 13:52:49,971 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 13:52:50,242 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 13:52:50,456 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-18 13:52:55,868 - INFO - Старт 1-ого сценария
+2025-04-18 13:52:55,868 - INFO - Open SBIS
+2025-04-18 13:52:56,845 - INFO - Переход в секцию контакты
+2025-04-18 13:54:42,813 - INFO - ====== WebDriver manager ======
+2025-04-18 13:54:44,347 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 13:54:44,543 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 13:54:44,800 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-18 13:54:50,011 - INFO - Старт 1-ого сценария
+2025-04-18 13:54:50,011 - INFO - Open SBIS
+2025-04-18 13:54:51,089 - INFO - Переход в секцию контакты
+2025-04-18 14:01:57,701 - INFO - ====== WebDriver manager ======
+2025-04-18 14:01:59,295 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 14:01:59,546 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 14:01:59,765 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-18 14:02:05,417 - INFO - Старт 1-ого сценария
+2025-04-18 14:02:05,417 - INFO - Open SBIS
+2025-04-18 14:02:06,352 - INFO - Переход в секцию контакты
+2025-04-18 14:02:14,549 - ERROR - Element with locator ('xpath', '//p[text()="Сила в людях"]') not found.
+2025-04-18 14:03:55,178 - INFO - ====== WebDriver manager ======
+2025-04-18 14:03:56,835 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 14:03:57,189 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 14:03:57,477 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-18 14:04:02,903 - INFO - Старт 1-ого сценария
+2025-04-18 14:04:02,903 - INFO - Open SBIS
+2025-04-18 14:04:03,821 - INFO - Переход в секцию контакты
+2025-04-18 14:04:28,150 - ERROR - Element with locator ('xpath', '//p[text()="Сила в людях"]') not found.
+2025-04-18 14:07:12,612 - INFO - ====== WebDriver manager ======
+2025-04-18 14:07:14,260 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 14:07:14,542 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 14:07:14,815 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-18 14:07:20,176 - INFO - Старт 1-ого сценария
+2025-04-18 14:07:20,176 - INFO - Open SBIS
+2025-04-18 14:07:21,167 - INFO - Переход в секцию контакты
+2025-04-18 14:08:34,040 - INFO - ====== WebDriver manager ======
+2025-04-18 14:08:35,619 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 14:08:35,876 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 14:08:36,147 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-18 14:08:41,513 - INFO - Старт 1-ого сценария
+2025-04-18 14:08:41,513 - INFO - Open SBIS
+2025-04-18 14:08:42,640 - INFO - Переход в секцию контакты
+2025-04-18 14:18:10,560 - INFO - ====== WebDriver manager ======
+2025-04-18 14:18:12,170 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 14:18:12,445 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 14:18:12,686 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-18 14:18:17,874 - INFO - Старт 1-ого сценария
+2025-04-18 14:18:17,874 - INFO - Open SBIS
+2025-04-18 14:18:18,907 - INFO - Переход в секцию контакты
+2025-04-18 14:27:50,969 - INFO - ====== WebDriver manager ======
+2025-04-18 14:27:52,678 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 14:27:52,907 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 14:27:53,150 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-18 14:27:58,677 - INFO - Старт 1-ого сценария
+2025-04-18 14:27:58,677 - INFO - Open SBIS
+2025-04-18 14:27:59,957 - INFO - Переход в секцию контакты
+2025-04-18 14:39:45,247 - INFO - ====== WebDriver manager ======
+2025-04-18 14:39:47,016 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 14:39:47,291 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 14:39:47,552 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-18 14:39:53,077 - INFO - Старт 1-ого сценария
+2025-04-18 14:39:53,077 - INFO - Open SBIS
+2025-04-18 14:39:54,142 - INFO - Переход в секцию контакты
+2025-04-18 14:46:23,488 - INFO - ====== WebDriver manager ======
+2025-04-18 14:46:25,175 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 14:46:25,445 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 14:46:25,733 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-18 14:46:31,104 - INFO - Старт 1-ого сценария
+2025-04-18 14:46:31,104 - INFO - Open SBIS
+2025-04-18 14:46:32,168 - INFO - Переход в секцию контакты
+2025-04-18 14:50:29,821 - INFO - ====== WebDriver manager ======
+2025-04-18 14:50:31,450 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 14:50:31,755 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 14:50:32,015 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-18 14:50:37,365 - INFO - Старт 1-ого сценария
+2025-04-18 14:50:37,365 - INFO - Open SBIS
+2025-04-18 14:50:38,341 - INFO - Переход в секцию контакты
+2025-04-18 15:10:45,748 - INFO - ====== WebDriver manager ======
+2025-04-18 15:10:47,432 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 15:10:48,538 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 15:10:49,303 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-18 15:10:54,582 - INFO - Старт 1-ого сценария
+2025-04-18 15:10:54,582 - INFO - Open SBIS
+2025-04-18 15:10:56,711 - INFO - Переход в секцию контакты
+2025-04-18 15:11:41,817 - ERROR - Element with locator ('xpath', "//h2[contains(text(), 'Сила в людях')]") not present after 30 seconds.
+2025-04-18 15:17:51,812 - INFO - ====== WebDriver manager ======
+2025-04-18 15:17:53,430 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 15:17:54,465 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 15:17:55,450 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-18 15:18:00,688 - INFO - Старт 1-ого сценария
+2025-04-18 15:18:00,688 - INFO - Open SBIS
+2025-04-18 15:18:02,866 - INFO - Переход в секцию контакты
+2025-04-18 15:19:51,544 - INFO - ====== WebDriver manager ======
+2025-04-18 15:19:53,191 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 15:19:53,970 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 15:19:54,729 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-18 15:20:00,103 - INFO - Старт 1-ого сценария
+2025-04-18 15:20:00,103 - INFO - Open SBIS
+2025-04-18 15:20:01,137 - INFO - Переход в секцию контакты
+2025-04-18 15:25:03,595 - INFO - ====== WebDriver manager ======
+2025-04-18 15:25:05,218 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 15:25:06,169 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 15:25:06,915 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-18 15:25:12,283 - INFO - Старт 1-ого сценария
+2025-04-18 15:25:12,284 - INFO - Open SBIS
+2025-04-18 15:25:13,324 - INFO - Переход в секцию контакты
+2025-04-18 15:33:05,865 - INFO - ====== WebDriver manager ======
+2025-04-18 15:33:07,654 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 15:33:08,535 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 15:33:09,680 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-18 15:33:15,737 - INFO - Старт 1-ого сценария
+2025-04-18 15:33:15,738 - INFO - Open SBIS
+2025-04-18 15:33:17,053 - INFO - Переход в секцию контакты
+2025-04-18 15:33:53,824 - INFO - Перый сценарий зевершен успешно
+2025-04-18 16:59:58,529 - INFO - ====== WebDriver manager ======
+2025-04-18 17:00:00,298 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 17:00:01,320 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 17:00:02,210 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-18 17:00:08,425 - INFO - Старт 1-ого сценария
+2025-04-18 17:00:08,425 - INFO - Open SBIS
+2025-04-18 17:00:09,559 - INFO - Переход в секцию контакты
+2025-04-18 17:00:19,966 - INFO - Найти баннер Тензор, кликнуть по нему
+2025-04-18 17:00:23,824 - INFO - Найти баннер Сила в людях
+2025-04-18 17:00:32,592 - INFO - Найти Подробнее и кликнуть по нему
+2025-04-18 17:00:35,233 - INFO - Проверка URL адреса
+2025-04-18 17:03:10,576 - INFO - ====== WebDriver manager ======
+2025-04-18 17:03:12,278 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 17:03:13,164 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 17:03:14,219 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-18 17:03:19,357 - INFO - Старт 1-ого сценария
+2025-04-18 17:03:19,357 - INFO - Open SBIS
+2025-04-18 17:03:20,313 - INFO - Переход в секцию контакты
+2025-04-18 17:03:27,851 - INFO - Найти баннер Тензор, кликнуть по нему
+2025-04-18 17:03:28,747 - INFO - Найти баннер Сила в людях
+2025-04-18 17:03:37,921 - INFO - Найти Подробнее и кликнуть по нему
+2025-04-18 17:03:40,534 - INFO - Проверка URL адреса
+2025-04-18 17:04:48,343 - INFO - ====== WebDriver manager ======
+2025-04-18 17:04:50,043 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 17:04:50,840 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 17:04:51,826 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-18 17:04:56,916 - INFO - Старт 1-ого сценария
+2025-04-18 17:04:56,916 - INFO - Open SBIS
+2025-04-18 17:04:57,884 - INFO - Переход в секцию контакты
+2025-04-18 17:05:06,511 - INFO - Найти баннер Тензор, кликнуть по нему
+2025-04-18 17:05:07,804 - INFO - Найти баннер Сила в людях
+2025-04-18 17:05:18,323 - INFO - Найти Подробнее и кликнуть по нему
+2025-04-18 17:05:26,835 - INFO - Проверка URL адреса
+2025-04-18 17:07:46,334 - INFO - ====== WebDriver manager ======
+2025-04-18 17:07:48,114 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 17:07:49,629 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 17:07:50,870 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-18 17:07:56,224 - INFO - Старт 1-ого сценария
+2025-04-18 17:07:56,225 - INFO - Open SBIS
+2025-04-18 17:07:57,269 - INFO - Переход в секцию контакты
+2025-04-18 17:08:05,981 - INFO - Найти баннер Тензор, кликнуть по нему
+2025-04-18 17:08:13,458 - INFO - Найти баннер Сила в людях
+2025-04-18 17:08:22,612 - INFO - Найти Подробнее и кликнуть по нему
+2025-04-18 17:08:32,710 - INFO - Проверка URL адреса
+2025-04-18 17:08:33,225 - INFO - Перый сценарий зевершен успешно
+2025-04-21 13:38:44,574 - INFO - ====== WebDriver manager ======
+2025-04-21 13:38:47,244 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 13:38:47,563 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 13:38:47,868 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 13:38:48,530 - INFO - WebDriver version 135.0.7049.95 selected
+2025-04-21 13:38:48,540 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.95/win32/chromedriver-win32.zip
+2025-04-21 13:38:48,541 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.95/win32/chromedriver-win32.zip
+2025-04-21 13:38:48,764 - INFO - Driver downloading response is 200
+2025-04-21 13:38:49,619 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 13:38:50,564 - INFO - Driver has been saved in cache [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95]
+2025-04-21 13:38:58,386 - INFO - Старт 1-ого сценария
+2025-04-21 13:38:58,386 - INFO - Open SBIS
+2025-04-21 13:38:59,932 - INFO - Переход в секцию контакты
+2025-04-21 13:39:17,685 - INFO - Найти баннер Тензор, кликнуть по нему
+2025-04-21 13:39:19,981 - INFO - Найти баннер Сила в людях
+2025-04-21 13:39:29,249 - INFO - Найти Подробнее и кликнуть по нему
+2025-04-21 13:39:39,238 - INFO - Проверка URL адреса
+2025-04-21 13:39:39,811 - INFO - Проверка размера фотографий
+2025-04-21 13:39:40,528 - INFO - Перый сценарий зевершен успешно
+2025-04-21 13:42:55,756 - INFO - ====== WebDriver manager ======
+2025-04-21 13:42:58,152 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 13:42:58,464 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 13:42:58,734 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-21 13:43:04,865 - INFO - Старт 1-ого сценария
+2025-04-21 13:43:04,865 - INFO - Open SBIS
+2025-04-21 13:43:06,195 - INFO - Переход в секцию контакты
+2025-04-21 13:43:20,146 - INFO - Найти баннер Тензор, кликнуть по нему
+2025-04-21 13:43:27,872 - INFO - Найти баннер Сила в людях
+2025-04-21 13:43:36,645 - INFO - Найти Подробнее и кликнуть по нему
+2025-04-21 13:43:45,680 - INFO - Проверка URL адреса
+2025-04-21 13:43:46,324 - INFO - Проверка размера фотографий
+2025-04-21 13:43:47,407 - INFO - Перый сценарий зевершен успешно
+2025-04-21 13:59:53,479 - INFO - ====== WebDriver manager ======
+2025-04-21 13:59:55,226 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 13:59:55,576 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 13:59:55,838 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-21 14:00:01,438 - INFO - Старт 1-ого сценария
+2025-04-21 14:00:01,438 - INFO - Open SBIS
+2025-04-21 14:05:42,917 - INFO - ====== WebDriver manager ======
+2025-04-21 14:05:44,576 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 14:05:44,860 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 14:05:45,183 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-21 14:05:50,663 - INFO - Старт 1-ого сценария
+2025-04-21 14:05:50,663 - INFO - Open SBIS
+2025-04-21 14:05:54,458 - INFO - Переход в секцию контакты
+2025-04-21 14:06:05,777 - INFO - Найти баннер Тензор, кликнуть по нему
+2025-04-21 14:06:06,795 - INFO - Найти баннер Сила в людях
+2025-04-21 14:06:15,636 - INFO - Найти Подробнее и кликнуть по нему
+2025-04-21 14:06:25,450 - INFO - Проверка URL адреса
+2025-04-21 14:06:26,087 - INFO - Проверка размера фотографий
+2025-04-21 14:06:27,306 - INFO - Перый сценарий зевершен успешно
+2025-04-21 14:10:08,712 - INFO - ====== WebDriver manager ======
+2025-04-21 14:10:10,421 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 14:10:10,758 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 14:10:11,091 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-21 14:10:16,238 - INFO - Старт 1-ого сценария
+2025-04-21 14:10:16,238 - INFO - Open SBIS
+2025-04-21 14:10:25,897 - INFO - Переход в секцию контакты
+2025-04-21 14:10:35,234 - INFO - Найти баннер Тензор, кликнуть по нему
+2025-04-21 14:10:36,020 - INFO - Найти баннер Сила в людях
+2025-04-21 14:10:44,876 - INFO - Найти Подробнее и кликнуть по нему
+2025-04-21 14:10:54,287 - INFO - Проверка URL адреса
+2025-04-21 14:10:54,777 - INFO - Проверка размера фотографий
+2025-04-21 14:10:55,897 - INFO - Перый сценарий зевершен успешно
+2025-04-21 14:27:11,645 - INFO - ====== WebDriver manager ======
+2025-04-21 14:27:13,297 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 14:27:13,642 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 14:27:13,968 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-21 14:27:19,551 - INFO - Старт 1-ого сценария
+2025-04-21 14:27:19,552 - INFO - Open SBIS
+2025-04-21 14:27:33,212 - INFO - Переход в секцию контакты
+2025-04-21 14:31:11,584 - INFO - ====== WebDriver manager ======
+2025-04-21 14:31:13,237 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 14:31:13,568 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 14:31:13,871 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-21 14:31:19,122 - INFO - Старт 1-ого сценария
+2025-04-21 14:31:19,122 - INFO - Open SBIS
+2025-04-21 14:31:33,903 - INFO - Переход в секцию контакты
+2025-04-21 14:31:41,841 - INFO - Найти баннер Тензор, кликнуть по нему
+2025-04-21 14:31:47,863 - INFO - Найти баннер Сила в людях
+2025-04-21 14:31:56,449 - INFO - Найти Подробнее и кликнуть по нему
+2025-04-21 14:32:04,396 - INFO - Проверка URL адреса
+2025-04-21 14:32:05,025 - INFO - Проверка размера фотографий
+2025-04-21 14:32:06,226 - INFO - Перый сценарий зевершен успешно
+2025-04-21 15:45:11,943 - INFO - ====== WebDriver manager ======
+2025-04-21 15:45:13,688 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 15:45:13,969 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 15:45:14,223 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-21 15:45:19,595 - INFO - Старт проверки регионов
+2025-04-21 15:45:19,595 - INFO - Open SBIS
+2025-04-21 15:45:26,062 - INFO - Переход в секцию контакты
+2025-04-21 15:45:37,719 - INFO - Changing region to Kamchatka
+2025-04-21 15:45:38,890 - INFO - Verifying region change
+2025-04-21 15:46:37,899 - INFO - ====== WebDriver manager ======
+2025-04-21 15:46:39,496 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 15:46:39,735 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 15:46:39,986 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-21 15:46:45,118 - INFO - Старт проверки регионов
+2025-04-21 15:46:45,118 - INFO - Open SBIS
+2025-04-21 15:46:53,773 - INFO - Переход в секцию контакты
+2025-04-21 15:47:02,367 - INFO - Changing region to Kamchatka
+2025-04-21 15:47:03,471 - INFO - Verifying region change
+2025-04-21 15:48:22,205 - INFO - ====== WebDriver manager ======
+2025-04-21 15:48:23,831 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 15:48:24,085 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 15:48:24,354 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-21 15:48:29,522 - INFO - Старт проверки регионов
+2025-04-21 15:48:29,523 - INFO - Open SBIS
+2025-04-21 15:48:39,087 - INFO - Переход в секцию контакты
+2025-04-21 15:48:47,763 - INFO - Changing region to Kamchatka
+2025-04-21 15:48:53,977 - INFO - Verifying region change
+2025-04-21 15:48:54,192 - INFO - Verifying partners list updated
+2025-04-21 15:50:16,486 - INFO - ====== WebDriver manager ======
+2025-04-21 15:50:18,245 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 15:50:18,478 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 15:50:18,726 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-21 15:50:24,066 - INFO - Старт проверки регионов
+2025-04-21 15:50:24,067 - INFO - Open SBIS
+2025-04-21 15:50:34,351 - INFO - Переход в секцию контакты
+2025-04-21 15:50:41,731 - INFO - Changing region to Kamchatka
+2025-04-21 15:50:48,014 - INFO - Verifying region change
+2025-04-21 15:50:48,236 - INFO - Verifying partners list updated
+2025-04-21 15:51:21,945 - INFO - ====== WebDriver manager ======
+2025-04-21 15:51:23,599 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 15:51:23,855 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 15:51:24,054 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-21 15:51:29,282 - INFO - Старт проверки регионов
+2025-04-21 15:51:29,283 - INFO - Open SBIS
+2025-04-21 15:51:38,112 - INFO - Переход в секцию контакты
+2025-04-21 15:51:47,882 - INFO - Changing region to Kamchatka
+2025-04-21 15:51:51,253 - INFO - Verifying region change
+2025-04-21 15:51:51,456 - INFO - Verifying partners list updated
+2025-04-21 16:23:08,913 - INFO - ====== WebDriver manager ======
+2025-04-21 16:23:10,554 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 16:23:11,096 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 16:23:11,449 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-21 16:23:16,786 - INFO - Старт проверки регионов
+2025-04-21 16:23:16,786 - INFO - Open SBIS
+2025-04-21 16:23:30,228 - INFO - Переход в секцию контакты
+2025-04-21 16:23:38,391 - INFO - Verifying region change
+2025-04-21 16:23:38,664 - INFO - Changing region to Kamchatka
+2025-04-21 16:23:45,073 - INFO - Verifying region change
+2025-04-21 16:23:45,343 - INFO - Verifying partners list updated
+2025-04-21 16:36:16,163 - INFO - ====== WebDriver manager ======
+2025-04-21 16:36:17,820 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 16:36:18,151 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 16:36:18,471 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-21 16:36:23,522 - INFO - Старт проверки регионов
+2025-04-21 16:36:23,522 - INFO - Open SBIS
+2025-04-21 16:36:31,731 - INFO - Переход в секцию контакты
+2025-04-21 16:36:40,047 - INFO - Verifying region change
+2025-04-21 16:38:23,541 - INFO - ====== WebDriver manager ======
+2025-04-21 16:38:25,182 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 16:38:25,450 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 16:38:25,714 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-21 16:38:31,081 - INFO - Старт проверки регионов
+2025-04-21 16:38:31,082 - INFO - Open SBIS
+2025-04-21 16:38:43,009 - INFO - Переход в секцию контакты
+2025-04-21 16:38:50,502 - INFO - Verifying region change
+2025-04-21 16:38:50,786 - INFO - Changing region to Kamchatka
+2025-04-21 16:38:54,031 - INFO - Verifying region change
+2025-04-21 16:38:54,239 - INFO - Verifying partners list updated
+2025-04-21 16:38:54,432 - INFO - Verifying page title contains region
+2025-04-21 16:38:54,639 - INFO - Проверка регионов завершена успешно
+2025-04-21 17:02:38,845 - INFO - ====== WebDriver manager ======
+2025-04-21 17:02:40,519 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 17:02:40,791 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 17:02:41,131 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-21 17:02:46,163 - INFO - Старт проверки регионов
+2025-04-21 17:02:46,163 - INFO - Open SBIS
+2025-04-21 17:02:54,258 - INFO - Переход в секцию контакты
+2025-04-21 17:03:05,676 - INFO - Verifying region change
+2025-04-21 17:03:05,908 - INFO - Verifying partners list updated
+2025-04-21 17:03:06,136 - INFO - Changing region to Kamchatka
+2025-04-21 17:03:09,274 - INFO - Verifying region change
+2025-04-21 17:03:09,477 - INFO - Verifying partners list updated
+2025-04-21 17:03:09,663 - INFO - Verifying page title contains region
+2025-04-21 17:03:09,848 - INFO - Проверка регионов завершена успешно
+2025-04-21 17:25:57,360 - INFO - ====== WebDriver manager ======
+2025-04-21 17:25:58,961 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 17:25:59,238 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 17:25:59,482 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-21 17:26:04,796 - INFO - Старт проверки регионов
+2025-04-21 17:26:04,796 - INFO - Open SBIS
+2025-04-21 17:26:12,932 - INFO - Переход в секцию контакты
+2025-04-21 17:29:45,635 - INFO - ====== WebDriver manager ======
+2025-04-21 17:29:47,266 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 17:29:47,565 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 17:29:47,807 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-21 17:29:52,935 - INFO - Старт проверки регионов
+2025-04-21 17:29:52,935 - INFO - Open SBIS
+2025-04-21 17:30:01,752 - INFO - Переход в секцию контакты
+2025-04-21 17:30:10,958 - INFO - Проверка своего региона
+2025-04-21 17:30:11,270 - INFO - Проверка списка партнеров своего региона
+2025-04-21 17:30:11,520 - INFO - Смена региона на Камчатку
+2025-04-21 17:30:14,761 - INFO - Проверка что регион сменился на Камчатский край
+2025-04-21 17:30:14,976 - INFO - Проверка списка партнеров региона Камчатка и что список изменился
+2025-04-21 17:30:15,170 - INFO - Проверка заголовка региона Камчатский край
+2025-04-21 17:30:15,355 - INFO - Проверка что URL содержит Камчатский край
+2025-04-21 17:30:15,534 - INFO - Проверка регионов завершена успешно
