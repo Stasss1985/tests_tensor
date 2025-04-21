@@ -23,16 +23,16 @@ class ContactPage(BasePage):
     def go_to_contacts(self):
         logging.info("Переход в секцию контакты")
         # Переход к контактам
-        self.wait_clickable(self.loc.CONTACTS_LINK)
-        self.click(self.loc.CONTACTS_LINK)
+        contacts_link = self.wait_clickable(self.loc.CONTACTS_LINK)
+        contacts_link.click()
         # Открыть все контакты
-        self.wait_clickable(self.loc.OPEN_ALL_CONTACTS_LINK)
-        self.click(self.loc.OPEN_ALL_CONTACTS_LINK)
+        open_all_contacts_link = self.wait_for_element_presence(self.loc.OPEN_ALL_CONTACTS_LINK)
+        open_all_contacts_link.click()
 
     def click_tensor_banner(self):
         logging.info("Найти баннер Тензор, кликнуть по нему")
-        self.find(self.loc.LOGO_TENSOR_HREF)
-        self.click(self.loc.LOGO_TENSOR_HREF)
+        logo_tensor_href = self.find(self.loc.LOGO_TENSOR_HREF)
+        logo_tensor_href.click()
 
     def verify_my_region(self):
         logging.info("Проверка своего региона")

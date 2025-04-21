@@ -381,3 +381,541 @@
 2025-04-21 17:30:15,170 - INFO - Проверка заголовка региона Камчатский край
 2025-04-21 17:30:15,355 - INFO - Проверка что URL содержит Камчатский край
 2025-04-21 17:30:15,534 - INFO - Проверка регионов завершена успешно
+2025-04-21 21:59:15,830 - INFO - ====== WebDriver manager ======
+2025-04-21 21:59:17,796 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 21:59:18,582 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 21:59:19,612 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-21 21:59:25,168 - INFO - Старт 3-его сценария - проверка скачивания и размера плагина
+2025-04-21 21:59:25,168 - INFO - Open SBIS
+2025-04-21 21:59:34,118 - INFO - Прокрутка до ссылки 'Скачать локальные версии'
+2025-04-21 21:59:34,942 - INFO - Клик по ссылке 'Скачать локальные версии'
+2025-04-21 21:59:42,781 - INFO - Получение ожидаемого размера плагина
+2025-04-21 22:06:03,262 - INFO - ====== WebDriver manager ======
+2025-04-21 22:06:04,878 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 22:06:05,706 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 22:06:06,789 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-21 22:06:12,108 - INFO - Старт 3-его сценария - проверка скачивания и размера плагина
+2025-04-21 22:06:12,108 - INFO - Open SBIS
+2025-04-21 22:06:20,086 - INFO - Прокрутка до ссылки 'Скачать локальные версии'
+2025-04-21 22:06:20,449 - INFO - Клик по ссылке 'Скачать локальные версии'
+2025-04-21 22:06:24,612 - INFO - Получение ожидаемого размера плагина
+2025-04-21 22:16:34,956 - INFO - ====== WebDriver manager ======
+2025-04-21 22:16:36,586 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 22:16:37,384 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 22:17:59,200 - INFO - ====== WebDriver manager ======
+2025-04-21 22:18:00,806 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 22:18:01,111 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 22:18:01,354 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-21 22:18:06,884 - INFO - Старт 3-его сценария - проверка скачивания и размера плагина
+2025-04-21 22:18:06,884 - INFO - Open SBIS
+2025-04-21 22:18:14,625 - INFO - Прокрутка до ссылки 'Скачать локальные версии'
+2025-04-21 22:18:15,042 - INFO - Клик по ссылке 'Скачать локальные версии'
+2025-04-21 22:18:20,144 - INFO - Получение ожидаемого размера плагина
+2025-04-21 22:23:14,962 - INFO - ====== WebDriver manager ======
+2025-04-21 22:23:16,599 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 22:23:16,842 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 22:23:17,121 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-21 22:23:22,048 - INFO - Старт 3-его сценария - проверка скачивания и размера плагина
+2025-04-21 22:23:22,048 - INFO - Open SBIS
+2025-04-21 22:23:29,825 - INFO - Прокрутка до ссылки 'Скачать локальные версии'
+2025-04-21 22:23:30,481 - INFO - Клик по ссылке 'Скачать локальные версии'
+2025-04-21 22:23:38,374 - INFO - Получение ожидаемого размера плагина
+2025-04-21 22:23:38,452 - INFO - Ожидаемый размер плагина: 10.37 МБ
+2025-04-21 22:23:38,452 - INFO - Скачивание плагина Windows в C:\Users\Stass\tests_tensor\tests\test_footer_page
+2025-04-21 22:27:27,310 - INFO - ====== WebDriver manager ======
+2025-04-21 22:27:28,947 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 22:27:29,188 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 22:27:29,457 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-21 22:27:34,733 - INFO - Старт 3-его сценария - проверка скачивания и размера плагина
+2025-04-21 22:27:34,734 - INFO - Open SBIS
+2025-04-21 22:27:44,131 - INFO - Прокрутка до ссылки 'Скачать локальные версии'
+2025-04-21 22:27:45,966 - INFO - Клик по ссылке 'Скачать локальные версии'
+2025-04-21 22:27:50,701 - INFO - Получение ожидаемого размера плагина
+2025-04-21 22:27:50,803 - INFO - Ожидаемый размер плагина: 10.37 МБ
+2025-04-21 22:27:50,803 - INFO - Скачивание плагина Windows в C:\Users\Stass\tests_tensor\tests\test_footer_page
+2025-04-21 23:17:20,320 - INFO - ====== WebDriver manager ======
+2025-04-21 23:17:22,029 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 23:17:22,832 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 23:17:23,553 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-21 23:17:29,046 - INFO - Старт 3-его сценария - проверка скачивания и размера плагина
+2025-04-21 23:17:29,047 - INFO - Open SBIS
+2025-04-21 23:17:38,341 - INFO - Прокрутка до ссылки 'Скачать локальные версии'
+2025-04-21 23:17:38,964 - INFO - Клик по ссылке 'Скачать локальные версии'
+2025-04-21 23:17:46,327 - INFO - Получение ожидаемого размера плагина
+2025-04-21 23:18:48,717 - INFO - ====== WebDriver manager ======
+2025-04-21 23:18:50,318 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 23:18:50,563 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 23:18:50,815 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-21 23:18:56,136 - INFO - Старт 3-его сценария - проверка скачивания и размера плагина
+2025-04-21 23:18:56,136 - INFO - Open SBIS
+2025-04-21 23:19:05,541 - INFO - Прокрутка до ссылки 'Скачать локальные версии'
+2025-04-21 23:19:06,478 - INFO - Клик по ссылке 'Скачать локальные версии'
+2025-04-21 23:19:12,417 - INFO - Получение ожидаемого размера плагина
+2025-04-21 23:31:55,231 - INFO - ====== WebDriver manager ======
+2025-04-21 23:31:56,813 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 23:31:57,063 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 23:31:57,336 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-21 23:32:02,742 - INFO - Старт 3-его сценария - проверка скачивания и размера плагина
+2025-04-21 23:32:02,742 - INFO - Open SBIS
+2025-04-21 23:32:10,565 - INFO - Прокрутка до ссылки 'Скачать локальные версии'
+2025-04-21 23:32:10,957 - INFO - Клик по ссылке 'Скачать локальные версии'
+2025-04-21 23:32:14,897 - INFO - Получение ожидаемого размера плагина
+2025-04-21 23:38:16,486 - INFO - ====== WebDriver manager ======
+2025-04-21 23:38:18,750 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 23:38:19,010 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 23:38:19,231 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-21 23:38:24,224 - INFO - Старт 3-его сценария - проверка скачивания и размера плагина
+2025-04-21 23:38:24,224 - INFO - Open SBIS
+2025-04-21 23:38:33,115 - INFO - Прокрутка до ссылки 'Скачать локальные версии'
+2025-04-21 23:38:34,189 - INFO - Клик по ссылке 'Скачать локальные версии'
+2025-04-21 23:38:45,549 - INFO - Получение ожидаемого размера плагина
+2025-04-21 23:38:45,704 - INFO - Найденный текст с размером: 'Скачать (Exe 10.37 МБ)'
+2025-04-21 23:38:45,704 - INFO - Ожидаемый размер плагина: 10.37 МБ
+2025-04-21 23:38:45,704 - INFO - Скачивание плагина Windows в C:\Users\Stass\tests_tensor\tests\test_footer_page
+2025-04-21 23:49:28,879 - INFO - ====== WebDriver manager ======
+2025-04-21 23:49:30,501 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 23:49:30,735 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-21 23:49:30,970 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-21 23:49:36,147 - INFO - Старт 3-его сценария - проверка скачивания и размера плагина
+2025-04-21 23:49:36,147 - INFO - Open SBIS
+2025-04-21 23:49:46,428 - INFO - Прокрутка до ссылки 'Скачать локальные версии'
+2025-04-21 23:49:47,130 - INFO - Клик по ссылке 'Скачать локальные версии'
+2025-04-21 23:49:51,687 - INFO - Получение ожидаемого размера плагина
+2025-04-21 23:49:51,786 - INFO - Найденный текст с размером: 'Скачать (Exe 10.37 МБ)'
+2025-04-21 23:49:51,787 - INFO - Ожидаемый размер плагина: 10.37 МБ
+2025-04-21 23:49:51,787 - INFO - Скачивание плагина Windows в C:\Users\Stass\tests_tensor\tests\test_footer_page
+2025-04-21 23:49:53,524 - INFO - Проверка скачивания плагина в C:\Users\Stass\tests_tensor\tests\test_footer_page
+2025-04-21 23:49:56,603 - INFO - Файл плагина C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe найден
+2025-04-21 23:49:56,603 - INFO - Файл плагина скачан: C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe
+2025-04-21 23:49:56,605 - INFO - Проверка размера файла C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe
+2025-04-21 23:49:56,605 - INFO - Фактический размер: 10.37 МБ, Ожидаемый размер: 10.37 МБ, Допуск: 1.037 МБ
+2025-04-21 23:49:56,605 - INFO - Размер файла проверен: 10.37 МБ соответствует ожидаемому 10.37 МБ
+2025-04-21 23:49:57,086 - INFO - Третий сценарий завершен успешно
+2025-04-22 00:00:58,590 - INFO - ====== WebDriver manager ======
+2025-04-22 00:01:00,204 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:01:00,440 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:01:00,683 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:01:01,275 - INFO - WebDriver version 135.0.7049.95 selected
+2025-04-22 00:01:01,282 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.95/win32/chromedriver-win32.zip
+2025-04-22 00:01:01,282 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.95/win32/chromedriver-win32.zip
+2025-04-22 00:01:01,547 - INFO - Driver downloading response is 200
+2025-04-22 00:01:03,689 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:01:04,435 - INFO - Driver has been saved in cache [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95]
+2025-04-22 00:01:10,133 - INFO - ====== WebDriver manager ======
+2025-04-22 00:01:11,731 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:01:11,951 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:01:12,162 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-22 00:01:17,248 - INFO - Старт - проверка скачивания и размера плагина
+2025-04-22 00:01:17,248 - INFO - Open SBIS
+2025-04-22 00:01:30,831 - INFO - Прокрутка до ссылки 'Скачать локальные версии'
+2025-04-22 00:09:42,864 - INFO - ====== WebDriver manager ======
+2025-04-22 00:09:44,468 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:09:44,725 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:09:44,979 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-22 00:09:50,152 - INFO - ====== WebDriver manager ======
+2025-04-22 00:09:52,106 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:09:52,370 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:09:52,640 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-22 00:09:57,738 - INFO - Старт - проверка скачивания и размера плагина
+2025-04-22 00:09:57,738 - INFO - Open SBIS
+2025-04-22 00:10:10,375 - INFO - Прокрутка до ссылки 'Скачать локальные версии'
+2025-04-22 00:10:10,783 - INFO - Клик по ссылке 'Скачать локальные версии'
+2025-04-22 00:10:16,473 - INFO - Получение ожидаемого размера плагина
+2025-04-22 00:10:16,550 - INFO - Найденный текст с размером: 'Скачать (Exe 10.37 МБ)'
+2025-04-22 00:10:16,550 - INFO - Ожидаемый размер плагина: 10.37 МБ
+2025-04-22 00:10:16,550 - INFO - Скачивание плагина Windows в C:\Users\Stass\tests_tensor\tests\test_footer_page
+2025-04-22 00:10:17,739 - INFO - Проверка скачивания плагина в C:\Users\Stass\tests_tensor\tests\test_footer_page
+2025-04-22 00:10:17,739 - INFO - Файл плагина C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe найден
+2025-04-22 00:10:17,741 - INFO - Файл плагина скачан: C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe
+2025-04-22 00:10:17,741 - INFO - Проверка размера файла C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe
+2025-04-22 00:10:17,741 - INFO - Фактический размер: 10.37 МБ, Ожидаемый размер: 10.37 МБ, Допуск: 1.037 МБ
+2025-04-22 00:10:17,741 - INFO - Размер файла проверен: 10.37 МБ соответствует ожидаемому 10.37 МБ
+2025-04-22 00:10:18,107 - INFO - Сценарий проверки скачивания и размера плагина завершен успешно
+2025-04-22 00:11:22,761 - INFO - ====== WebDriver manager ======
+2025-04-22 00:11:24,362 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:11:24,621 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:11:24,859 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-22 00:11:30,013 - INFO - Старт - проверка скачивания и размера плагина
+2025-04-22 00:11:30,013 - INFO - Open SBIS
+2025-04-22 00:11:38,814 - INFO - Прокрутка до ссылки 'Скачать локальные версии'
+2025-04-22 00:11:39,854 - INFO - Клик по ссылке 'Скачать локальные версии'
+2025-04-22 00:11:46,592 - INFO - Получение ожидаемого размера плагина
+2025-04-22 00:11:46,710 - INFO - Найденный текст с размером: 'Скачать (Exe 10.37 МБ)'
+2025-04-22 00:11:46,711 - INFO - Ожидаемый размер плагина: 10.37 МБ
+2025-04-22 00:11:46,711 - INFO - Скачивание плагина Windows в C:\Users\Stass\tests_tensor\tests\test_footer_page
+2025-04-22 00:11:48,667 - INFO - Проверка скачивания плагина в C:\Users\Stass\tests_tensor\tests\test_footer_page
+2025-04-22 00:11:48,667 - INFO - Файл плагина C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe найден
+2025-04-22 00:11:48,667 - INFO - Файл плагина скачан: C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe
+2025-04-22 00:11:48,667 - INFO - Проверка размера файла C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe
+2025-04-22 00:11:48,669 - INFO - Фактический размер: 10.37 МБ, Ожидаемый размер: 10.37 МБ, Допуск: 1.037 МБ
+2025-04-22 00:11:48,669 - INFO - Размер файла проверен: 10.37 МБ соответствует ожидаемому 10.37 МБ
+2025-04-22 00:11:48,997 - INFO - Сценарий проверки скачивания и размера плагина завершен успешно
+2025-04-22 00:29:05,314 - INFO - ====== WebDriver manager ======
+2025-04-22 00:29:06,957 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:29:07,840 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:29:08,144 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-22 00:29:13,837 - INFO - Старт - проверка скачивания и размера плагина
+2025-04-22 00:29:13,837 - INFO - Open SBIS
+2025-04-22 00:29:24,740 - INFO - Прокрутка до ссылки 'Скачать локальные версии'
+2025-04-22 00:29:27,168 - INFO - Клик по ссылке 'Скачать локальные версии'
+2025-04-22 00:29:31,559 - INFO - Получение ожидаемого размера плагина
+2025-04-22 00:29:32,407 - INFO - Найденный текст с размером: 'Скачать (Exe 10.37 МБ)'
+2025-04-22 00:29:32,408 - INFO - Ожидаемый размер плагина: 10.37 МБ
+2025-04-22 00:29:32,408 - INFO - Скачивание плагина Windows в C:\Users\Stass\tests_tensor\tests\test_footer_page
+2025-04-22 00:29:33,596 - INFO - Проверка скачивания плагина в C:\Users\Stass\tests_tensor\tests\test_footer_page
+2025-04-22 00:29:36,646 - INFO - Файл плагина C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe найден
+2025-04-22 00:29:36,646 - INFO - Файл плагина скачан: C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe
+2025-04-22 00:29:36,646 - INFO - Проверка размера файла C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe
+2025-04-22 00:29:36,646 - INFO - Фактический размер: 10.37 МБ, Ожидаемый размер: 10.37 МБ, Допуск: 1.037 МБ
+2025-04-22 00:29:36,646 - INFO - Размер файла проверен: 10.37 МБ соответствует ожидаемому 10.37 МБ
+2025-04-22 00:29:37,228 - INFO - Сценарий проверки скачивания и размера плагина завершен успешно
+2025-04-22 00:30:26,659 - INFO - ====== WebDriver manager ======
+2025-04-22 00:30:28,249 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:30:28,545 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:30:28,828 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-22 00:30:34,015 - INFO - Старт - проверка скачивания и размера плагина
+2025-04-22 00:30:34,016 - INFO - Open SBIS
+2025-04-22 00:30:42,231 - INFO - Прокрутка до ссылки 'Скачать локальные версии'
+2025-04-22 00:30:42,690 - INFO - Клик по ссылке 'Скачать локальные версии'
+2025-04-22 00:30:46,042 - INFO - Получение ожидаемого размера плагина
+2025-04-22 00:30:46,867 - INFO - Найденный текст с размером: 'Скачать (Exe 10.37 МБ)'
+2025-04-22 00:30:46,867 - INFO - Ожидаемый размер плагина: 10.37 МБ
+2025-04-22 00:30:46,867 - INFO - Скачивание плагина Windows в C:\Users\Stass\tests_tensor\tests\test_footer_page
+2025-04-22 00:30:48,491 - INFO - Проверка скачивания плагина в C:\Users\Stass\tests_tensor\tests\test_footer_page
+2025-04-22 00:30:48,493 - INFO - Файл плагина C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe найден
+2025-04-22 00:30:48,493 - INFO - Файл плагина скачан: C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe
+2025-04-22 00:30:48,493 - INFO - Проверка размера файла C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe
+2025-04-22 00:30:48,493 - INFO - Фактический размер: 10.37 МБ, Ожидаемый размер: 10.37 МБ, Допуск: 1.037 МБ
+2025-04-22 00:30:48,493 - INFO - Размер файла проверен: 10.37 МБ соответствует ожидаемому 10.37 МБ
+2025-04-22 00:30:48,811 - INFO - Сценарий проверки скачивания и размера плагина завершен успешно
+2025-04-22 00:35:18,062 - INFO - ====== WebDriver manager ======
+2025-04-22 00:35:19,627 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:35:19,947 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:35:20,189 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-22 00:35:25,709 - INFO - Старт проверки регионов
+2025-04-22 00:35:25,709 - INFO - Open SBIS
+2025-04-22 00:35:40,117 - INFO - Переход в секцию контакты
+2025-04-22 00:35:46,213 - INFO - Проверка своего региона
+2025-04-22 00:35:46,574 - INFO - Проверка списка партнеров своего региона
+2025-04-22 00:35:46,853 - INFO - Смена региона на Камчатку
+2025-04-22 00:35:50,109 - INFO - Проверка, что регион сменился на Камчатский край
+2025-04-22 00:35:50,327 - INFO - Проверка списка партнеров региона Камчатка и что список изменился
+2025-04-22 00:35:50,560 - INFO - Проверка заголовка региона Камчатский край
+2025-04-22 00:35:50,773 - INFO - Проверка, что URL содержит Камчатский край
+2025-04-22 00:35:50,968 - INFO - Проверка регионов завершена успешно
+2025-04-22 00:35:58,484 - INFO - ====== WebDriver manager ======
+2025-04-22 00:36:00,051 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:36:04,380 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:36:04,628 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-22 00:36:09,506 - INFO - Старт - проверка скачивания и размера плагина
+2025-04-22 00:36:09,506 - INFO - Open SBIS
+2025-04-22 00:36:18,090 - INFO - Прокрутка до ссылки 'Скачать локальные версии'
+2025-04-22 00:36:18,787 - INFO - Клик по ссылке 'Скачать локальные версии'
+2025-04-22 00:36:25,642 - INFO - Получение ожидаемого размера плагина
+2025-04-22 00:36:25,894 - INFO - Найденный текст с размером: 'Скачать (Exe 10.37 МБ)'
+2025-04-22 00:36:25,894 - INFO - Ожидаемый размер плагина: 10.37 МБ
+2025-04-22 00:36:25,894 - INFO - Скачивание плагина Windows в C:\Users\Stass\tests_tensor\tests\test_footer_page
+2025-04-22 00:36:28,170 - INFO - Проверка скачивания плагина в C:\Users\Stass\tests_tensor\tests\test_footer_page
+2025-04-22 00:36:28,171 - INFO - Файл плагина C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe найден
+2025-04-22 00:36:28,173 - INFO - Файл плагина скачан: C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe
+2025-04-22 00:36:28,173 - INFO - Проверка размера файла C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe
+2025-04-22 00:36:28,173 - INFO - Фактический размер: 10.37 МБ, Ожидаемый размер: 10.37 МБ, Допуск: 1.037 МБ
+2025-04-22 00:36:28,175 - INFO - Размер файла проверен: 10.37 МБ соответствует ожидаемому 10.37 МБ
+2025-04-22 00:36:28,484 - INFO - Сценарий проверки скачивания и размера плагина завершен успешно
+2025-04-22 00:36:33,886 - INFO - ====== WebDriver manager ======
+2025-04-22 00:36:35,421 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:36:39,723 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:36:39,996 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-22 00:36:45,593 - INFO - Старт 1-ого сценария
+2025-04-22 00:36:45,593 - INFO - Open SBIS
+2025-04-22 00:36:53,608 - INFO - Переход в секцию контакты
+2025-04-22 00:46:01,864 - INFO - ====== WebDriver manager ======
+2025-04-22 00:46:03,894 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:46:04,168 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:46:04,402 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-22 00:46:09,590 - INFO - Старт 1-ого сценария
+2025-04-22 00:46:09,590 - INFO - Open SBIS
+2025-04-22 00:46:18,948 - INFO - Переход в секцию контакты
+2025-04-22 00:46:27,022 - INFO - Найти баннер Тензор, кликнуть по нему
+2025-04-22 00:46:27,889 - INFO - Найти баннер Сила в людях
+2025-04-22 00:46:36,725 - INFO - Найти Подробнее и кликнуть по нему
+2025-04-22 00:46:44,980 - INFO - Проверка URL адреса
+2025-04-22 00:46:45,537 - INFO - Проверка размера фотографий
+2025-04-22 00:46:46,614 - INFO - Перый сценарий зевершен успешно
+2025-04-22 00:47:04,596 - INFO - ====== WebDriver manager ======
+2025-04-22 00:47:06,156 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:47:06,406 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:47:06,660 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-22 00:47:11,945 - INFO - Старт проверки регионов
+2025-04-22 00:47:11,945 - INFO - Open SBIS
+2025-04-22 00:47:20,740 - INFO - Переход в секцию контакты
+2025-04-22 00:47:29,108 - INFO - Проверка своего региона
+2025-04-22 00:47:29,483 - INFO - Проверка списка партнеров своего региона
+2025-04-22 00:47:29,735 - INFO - Смена региона на Камчатку
+2025-04-22 00:47:33,067 - INFO - Проверка, что регион сменился на Камчатский край
+2025-04-22 00:47:33,281 - INFO - Проверка списка партнеров региона Камчатка и что список изменился
+2025-04-22 00:47:33,500 - INFO - Проверка заголовка региона Камчатский край
+2025-04-22 00:47:33,699 - INFO - Проверка, что URL содержит Камчатский край
+2025-04-22 00:47:33,896 - INFO - Проверка регионов завершена успешно
+2025-04-22 00:47:38,157 - INFO - ====== WebDriver manager ======
+2025-04-22 00:47:39,689 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:47:44,001 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:47:44,237 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-22 00:47:49,990 - INFO - Старт - проверка скачивания и размера плагина
+2025-04-22 00:47:49,990 - INFO - Open SBIS
+2025-04-22 00:47:59,072 - INFO - Прокрутка до ссылки 'Скачать локальные версии'
+2025-04-22 00:47:59,948 - INFO - Клик по ссылке 'Скачать локальные версии'
+2025-04-22 00:48:05,706 - INFO - Получение ожидаемого размера плагина
+2025-04-22 00:48:05,767 - INFO - Найденный текст с размером: 'Скачать (Exe 10.37 МБ)'
+2025-04-22 00:48:05,767 - INFO - Ожидаемый размер плагина: 10.37 МБ
+2025-04-22 00:48:05,767 - INFO - Скачивание плагина Windows в C:\Users\Stass\tests_tensor\tests\test_footer_page
+2025-04-22 00:48:20,469 - INFO - Проверка скачивания плагина в C:\Users\Stass\tests_tensor\tests\test_footer_page
+2025-04-22 00:48:20,471 - INFO - Файл плагина C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe найден
+2025-04-22 00:48:20,471 - INFO - Файл плагина скачан: C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe
+2025-04-22 00:48:20,471 - INFO - Проверка размера файла C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe
+2025-04-22 00:48:20,472 - INFO - Фактический размер: 10.37 МБ, Ожидаемый размер: 10.37 МБ, Допуск: 1.037 МБ
+2025-04-22 00:48:20,472 - INFO - Размер файла проверен: 10.37 МБ соответствует ожидаемому 10.37 МБ
+2025-04-22 00:48:20,864 - INFO - Сценарий проверки скачивания и размера плагина завершен успешно
+2025-04-22 00:48:25,330 - INFO - ====== WebDriver manager ======
+2025-04-22 00:48:26,906 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:48:31,239 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:48:31,479 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-22 00:48:36,586 - INFO - Старт 1-ого сценария
+2025-04-22 00:48:36,586 - INFO - Open SBIS
+2025-04-22 00:48:44,298 - INFO - Переход в секцию контакты
+2025-04-22 00:53:39,544 - INFO - ====== WebDriver manager ======
+2025-04-22 00:53:41,166 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:53:41,420 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:53:41,660 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-22 00:53:46,894 - INFO - Старт 1-ого сценария
+2025-04-22 00:53:46,894 - INFO - Open SBIS
+2025-04-22 00:53:58,158 - INFO - Переход в секцию контакты
+2025-04-22 00:54:08,029 - INFO - Найти баннер Тензор, кликнуть по нему
+2025-04-22 00:54:09,304 - INFO - Найти баннер Сила в людях
+2025-04-22 00:54:17,973 - INFO - Найти Подробнее и кликнуть по нему
+2025-04-22 00:54:26,116 - INFO - Проверка URL адреса
+2025-04-22 00:54:26,642 - INFO - Проверка размера фотографий
+2025-04-22 00:54:27,764 - INFO - Перый сценарий зевершен успешно
+2025-04-22 00:56:53,912 - INFO - ====== WebDriver manager ======
+2025-04-22 00:56:55,463 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:56:55,734 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:56:55,981 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-22 00:57:01,222 - INFO - Старт проверки регионов
+2025-04-22 00:57:01,222 - INFO - Open SBIS
+2025-04-22 00:57:08,642 - INFO - Переход в секцию контакты
+2025-04-22 00:57:16,264 - INFO - Проверка своего региона
+2025-04-22 00:57:16,492 - INFO - Проверка списка партнеров своего региона
+2025-04-22 00:57:16,752 - INFO - Смена региона на Камчатку
+2025-04-22 00:57:19,981 - INFO - Проверка, что регион сменился на Камчатский край
+2025-04-22 00:57:20,218 - INFO - Проверка списка партнеров региона Камчатка и что список изменился
+2025-04-22 00:57:20,445 - INFO - Проверка заголовка региона Камчатский край
+2025-04-22 00:57:20,733 - INFO - Проверка, что URL содержит Камчатский край
+2025-04-22 00:57:20,949 - INFO - Проверка регионов завершена успешно
+2025-04-22 00:57:24,848 - INFO - ====== WebDriver manager ======
+2025-04-22 00:57:26,439 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:57:30,793 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:57:31,022 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-22 00:57:36,255 - INFO - Старт - проверка скачивания и размера плагина
+2025-04-22 00:57:36,255 - INFO - Open SBIS
+2025-04-22 00:57:45,603 - INFO - Прокрутка до ссылки 'Скачать локальные версии'
+2025-04-22 00:57:47,867 - INFO - Клик по ссылке 'Скачать локальные версии'
+2025-04-22 00:57:53,192 - INFO - Получение ожидаемого размера плагина
+2025-04-22 00:57:53,408 - INFO - Найденный текст с размером: 'Скачать (Exe 10.37 МБ)'
+2025-04-22 00:57:53,408 - INFO - Ожидаемый размер плагина: 10.37 МБ
+2025-04-22 00:57:53,408 - INFO - Скачивание плагина Windows в C:\Users\Stass\tests_tensor\tests\test_footer_page
+2025-04-22 00:57:55,172 - INFO - Проверка скачивания плагина в C:\Users\Stass\tests_tensor\tests\test_footer_page
+2025-04-22 00:57:55,174 - INFO - Файл плагина C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe найден
+2025-04-22 00:57:55,174 - INFO - Файл плагина скачан: C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe
+2025-04-22 00:57:55,174 - INFO - Проверка размера файла C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe
+2025-04-22 00:57:55,174 - INFO - Фактический размер: 10.37 МБ, Ожидаемый размер: 10.37 МБ, Допуск: 1.037 МБ
+2025-04-22 00:57:55,174 - INFO - Размер файла проверен: 10.37 МБ соответствует ожидаемому 10.37 МБ
+2025-04-22 00:57:55,524 - INFO - Сценарий проверки скачивания и размера плагина завершен успешно
+2025-04-22 00:58:00,656 - INFO - ====== WebDriver manager ======
+2025-04-22 00:58:02,197 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:58:06,533 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 00:58:06,797 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-22 00:58:11,956 - INFO - Старт 1-ого сценария
+2025-04-22 00:58:11,956 - INFO - Open SBIS
+2025-04-22 00:58:20,723 - INFO - Переход в секцию контакты
+2025-04-22 00:58:30,811 - INFO - Найти баннер Тензор, кликнуть по нему
+2025-04-22 00:58:31,694 - INFO - Найти баннер Сила в людях
+2025-04-22 00:58:40,658 - INFO - Найти Подробнее и кликнуть по нему
+2025-04-22 00:58:49,821 - INFO - Проверка URL адреса
+2025-04-22 00:58:50,308 - INFO - Проверка размера фотографий
+2025-04-22 00:58:51,444 - INFO - Перый сценарий зевершен успешно
+2025-04-22 01:01:49,384 - INFO - ====== WebDriver manager ======
+2025-04-22 01:01:50,976 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 01:01:51,274 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 01:01:51,544 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-22 01:01:56,704 - INFO - Старт проверки регионов
+2025-04-22 01:01:56,704 - INFO - Open SBIS
+2025-04-22 01:02:04,717 - INFO - Переход в секцию контакты
+2025-04-22 01:02:14,251 - INFO - Проверка своего региона
+2025-04-22 01:02:14,484 - INFO - Проверка списка партнеров своего региона
+2025-04-22 01:02:14,807 - INFO - Смена региона на Камчатку
+2025-04-22 01:02:17,986 - INFO - Проверка, что регион сменился на Камчатский край
+2025-04-22 01:02:18,198 - INFO - Проверка списка партнеров региона Камчатка и что список изменился
+2025-04-22 01:02:18,414 - INFO - Проверка заголовка региона Камчатский край
+2025-04-22 01:02:18,632 - INFO - Проверка, что URL содержит Камчатский край
+2025-04-22 01:02:18,835 - INFO - Проверка регионов завершена успешно
+2025-04-22 01:02:22,298 - INFO - ====== WebDriver manager ======
+2025-04-22 01:02:23,838 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 01:02:28,170 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 01:02:28,392 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-22 01:02:33,632 - INFO - Старт - проверка скачивания и размера плагина
+2025-04-22 01:02:33,632 - INFO - Open SBIS
+2025-04-22 01:02:38,136 - INFO - Прокрутка до ссылки 'Скачать локальные версии'
+2025-04-22 01:02:53,013 - INFO - ====== WebDriver manager ======
+2025-04-22 01:02:54,782 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 01:02:55,060 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 01:02:55,420 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-22 01:03:00,585 - INFO - Старт 1-ого сценария
+2025-04-22 01:03:00,585 - INFO - Open SBIS
+2025-04-22 01:06:18,011 - INFO - ====== WebDriver manager ======
+2025-04-22 01:06:19,620 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 01:06:19,835 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 01:06:20,075 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-22 01:06:25,183 - INFO - Старт проверки регионов
+2025-04-22 01:06:25,183 - INFO - Open SBIS
+2025-04-22 01:06:34,595 - INFO - Переход в секцию контакты
+2025-04-22 01:06:45,781 - INFO - ====== WebDriver manager ======
+2025-04-22 01:06:47,328 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 01:06:47,562 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 01:06:47,800 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-22 01:06:53,571 - INFO - Старт - проверка скачивания и размера плагина
+2025-04-22 01:06:53,573 - INFO - Open SBIS
+2025-04-22 01:07:01,632 - INFO - Прокрутка до ссылки 'Скачать локальные версии'
+2025-04-22 01:07:02,178 - INFO - Клик по ссылке 'Скачать локальные версии'
+2025-04-22 01:07:09,630 - INFO - Получение ожидаемого размера плагина
+2025-04-22 01:07:09,790 - INFO - Найденный текст с размером: 'Скачать (Exe 10.37 МБ)'
+2025-04-22 01:07:09,792 - INFO - Ожидаемый размер плагина: 10.37 МБ
+2025-04-22 01:07:09,792 - INFO - Скачивание плагина Windows в C:\Users\Stass\tests_tensor\tests\test_footer_page
+2025-04-22 01:07:11,563 - INFO - Проверка скачивания плагина в C:\Users\Stass\tests_tensor\tests\test_footer_page
+2025-04-22 01:07:11,563 - INFO - Файл плагина C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe найден
+2025-04-22 01:07:11,563 - INFO - Файл плагина скачан: C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe
+2025-04-22 01:07:11,563 - INFO - Проверка размера файла C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe
+2025-04-22 01:07:11,564 - INFO - Фактический размер: 10.37 МБ, Ожидаемый размер: 10.37 МБ, Допуск: 1.037 МБ
+2025-04-22 01:07:11,564 - INFO - Размер файла проверен: 10.37 МБ соответствует ожидаемому 10.37 МБ
+2025-04-22 01:07:11,882 - INFO - Сценарий проверки скачивания и размера плагина завершен успешно
+2025-04-22 01:07:18,880 - INFO - ====== WebDriver manager ======
+2025-04-22 01:07:20,474 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 01:07:24,797 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 01:07:25,018 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-22 01:07:30,469 - INFO - Старт 1-ого сценария
+2025-04-22 01:07:30,470 - INFO - Open SBIS
+2025-04-22 01:07:39,429 - INFO - Переход в секцию контакты
+2025-04-22 01:07:48,703 - INFO - Найти баннер Тензор, кликнуть по нему
+2025-04-22 01:07:51,572 - INFO - Найти баннер Сила в людях
+2025-04-22 01:08:00,913 - INFO - Найти Подробнее и кликнуть по нему
+2025-04-22 01:08:09,349 - INFO - Проверка URL адреса
+2025-04-22 01:08:09,944 - INFO - Проверка размера фотографий
+2025-04-22 01:08:11,034 - INFO - Перый сценарий зевершен успешно
+2025-04-22 01:14:45,181 - INFO - ====== WebDriver manager ======
+2025-04-22 01:14:46,859 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 01:14:47,084 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 01:14:47,301 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-22 01:14:52,363 - INFO - Старт проверки регионов
+2025-04-22 01:14:52,363 - INFO - Open SBIS
+2025-04-22 01:14:59,755 - INFO - Переход в секцию контакты
+2025-04-22 01:15:08,628 - INFO - Проверка своего региона
+2025-04-22 01:15:08,922 - INFO - Проверка списка партнеров своего региона
+2025-04-22 01:15:09,347 - INFO - Смена региона на Камчатку
+2025-04-22 01:15:12,537 - INFO - Проверка, что регион сменился на Камчатский край
+2025-04-22 01:15:12,758 - INFO - Проверка списка партнеров региона Камчатка и что список изменился
+2025-04-22 01:15:13,013 - INFO - Проверка заголовка региона Камчатский край
+2025-04-22 01:15:13,202 - INFO - Проверка, что URL содержит Камчатский край
+2025-04-22 01:15:13,413 - INFO - Проверка регионов завершена успешно
+2025-04-22 01:16:07,123 - INFO - ====== WebDriver manager ======
+2025-04-22 01:16:08,651 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 01:16:08,906 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 01:16:09,156 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-22 01:16:14,755 - INFO - Старт проверки регионов
+2025-04-22 01:16:14,755 - INFO - Open SBIS
+2025-04-22 01:16:22,866 - INFO - Переход в секцию контакты
+2025-04-22 01:16:30,635 - INFO - Проверка своего региона
+2025-04-22 01:16:30,875 - INFO - Проверка списка партнеров своего региона
+2025-04-22 01:16:31,161 - INFO - Смена региона на Камчатку
+2025-04-22 01:16:34,392 - INFO - Проверка, что регион сменился на Камчатский край
+2025-04-22 01:16:34,622 - INFO - Проверка списка партнеров региона Камчатка и что список изменился
+2025-04-22 01:16:34,842 - INFO - Проверка заголовка региона Камчатский край
+2025-04-22 01:16:35,147 - INFO - Проверка, что URL содержит Камчатский край
+2025-04-22 01:16:35,406 - INFO - Проверка регионов завершена успешно
+2025-04-22 01:16:40,871 - INFO - ====== WebDriver manager ======
+2025-04-22 01:16:42,394 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 01:16:46,679 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 01:16:46,960 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-22 01:16:52,378 - INFO - Старт - проверка скачивания и размера плагина
+2025-04-22 01:16:52,378 - INFO - Open SBIS
+2025-04-22 01:16:59,995 - INFO - Прокрутка до ссылки 'Скачать локальные версии'
+2025-04-22 01:17:00,507 - INFO - Клик по ссылке 'Скачать локальные версии'
+2025-04-22 01:17:07,488 - INFO - Получение ожидаемого размера плагина
+2025-04-22 01:17:07,644 - INFO - Найденный текст с размером: 'Скачать (Exe 10.37 МБ)'
+2025-04-22 01:17:07,644 - INFO - Ожидаемый размер плагина: 10.37 МБ
+2025-04-22 01:17:07,644 - INFO - Скачивание плагина Windows в C:\Users\Stass\tests_tensor\tests\test_footer_page
+2025-04-22 01:17:11,109 - INFO - Проверка скачивания плагина в C:\Users\Stass\tests_tensor\tests\test_footer_page
+2025-04-22 01:17:11,110 - INFO - Файл плагина C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe найден
+2025-04-22 01:17:11,110 - INFO - Файл плагина скачан: C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe
+2025-04-22 01:17:11,110 - INFO - Проверка размера файла C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe
+2025-04-22 01:17:11,110 - INFO - Фактический размер: 10.37 МБ, Ожидаемый размер: 10.37 МБ, Допуск: 1.037 МБ
+2025-04-22 01:17:11,110 - INFO - Размер файла проверен: 10.37 МБ соответствует ожидаемому 10.37 МБ
+2025-04-22 01:17:11,413 - INFO - Сценарий проверки скачивания и размера плагина завершен успешно
+2025-04-22 01:17:17,394 - INFO - ====== WebDriver manager ======
+2025-04-22 01:17:19,019 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 01:17:24,388 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 01:17:24,631 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-22 01:17:29,831 - INFO - Старт 1-ого сценария
+2025-04-22 01:17:29,831 - INFO - Open SBIS
+2025-04-22 01:17:37,462 - INFO - Переход в секцию контакты
+2025-04-22 01:17:46,593 - INFO - Найти баннер Тензор, кликнуть по нему
+2025-04-22 01:17:52,287 - INFO - Найти баннер Сила в людях
+2025-04-22 01:18:01,890 - INFO - Найти Подробнее и кликнуть по нему
+2025-04-22 01:18:10,626 - INFO - Проверка URL адреса
+2025-04-22 01:18:11,102 - INFO - Проверка размера фотографий
+2025-04-22 01:18:12,234 - INFO - Перый сценарий зевершен успешно
+2025-04-22 01:22:59,786 - INFO - ====== WebDriver manager ======
+2025-04-22 01:23:01,369 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 01:23:01,577 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 01:23:01,803 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-22 01:23:07,128 - INFO - Старт проверки регионов
+2025-04-22 01:23:07,128 - INFO - Open SBIS
+2025-04-22 01:23:16,033 - INFO - Переход в секцию контакты
+2025-04-22 01:23:25,443 - INFO - Проверка своего региона
+2025-04-22 01:23:25,760 - INFO - Проверка списка партнеров своего региона
+2025-04-22 01:23:26,032 - INFO - Смена региона на Камчатку
+2025-04-22 01:23:29,376 - INFO - Проверка, что регион сменился на Камчатский край
+2025-04-22 01:23:29,608 - INFO - Проверка списка партнеров региона Камчатка и что список изменился
+2025-04-22 01:23:29,853 - INFO - Проверка заголовка региона Камчатский край
+2025-04-22 01:23:30,051 - INFO - Проверка, что URL содержит Камчатский край
+2025-04-22 01:23:30,245 - INFO - Проверка регионов завершена успешно
+2025-04-22 01:23:34,501 - INFO - ====== WebDriver manager ======
+2025-04-22 01:23:36,147 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 01:23:44,588 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 01:23:44,838 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-22 01:23:50,498 - INFO - Старт - проверка скачивания и размера плагина
+2025-04-22 01:23:50,498 - INFO - Open SBIS
+2025-04-22 01:23:59,527 - INFO - Прокрутка до ссылки 'Скачать локальные версии'
+2025-04-22 01:24:00,271 - INFO - Клик по ссылке 'Скачать локальные версии'
+2025-04-22 01:24:07,133 - INFO - Получение ожидаемого размера плагина
+2025-04-22 01:24:07,286 - INFO - Найденный текст с размером: 'Скачать (Exe 10.37 МБ)'
+2025-04-22 01:24:07,286 - INFO - Ожидаемый размер плагина: 10.37 МБ
+2025-04-22 01:24:07,286 - INFO - Скачивание плагина Windows в C:\Users\Stass\tests_tensor\tests\test_footer_page
+2025-04-22 01:24:10,218 - INFO - Проверка скачивания плагина в C:\Users\Stass\tests_tensor\tests\test_footer_page
+2025-04-22 01:24:10,218 - INFO - Файл плагина C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe найден
+2025-04-22 01:24:10,219 - INFO - Файл плагина скачан: C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe
+2025-04-22 01:24:10,230 - INFO - Проверка размера файла C:\Users\Stass\tests_tensor\tests\test_footer_page\sbisplugin-setup-web.exe
+2025-04-22 01:24:10,230 - INFO - Фактический размер: 10.37 МБ, Ожидаемый размер: 10.37 МБ, Допуск: 1.037 МБ
+2025-04-22 01:24:10,230 - INFO - Размер файла проверен: 10.37 МБ соответствует ожидаемому 10.37 МБ
+2025-04-22 01:24:10,696 - INFO - Сценарий проверки скачивания и размера плагина завершен успешно
+2025-04-22 01:24:16,745 - INFO - ====== WebDriver manager ======
+2025-04-22 01:24:18,662 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 01:24:22,937 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-22 01:24:23,190 - INFO - Driver [C:\Users\Stass\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-22 01:24:29,129 - INFO - Старт 1-ого сценария
+2025-04-22 01:24:29,129 - INFO - Open SBIS
+2025-04-22 01:24:38,326 - INFO - Переход в секцию контакты
+2025-04-22 01:24:47,792 - INFO - Найти баннер Тензор, кликнуть по нему
+2025-04-22 01:24:50,606 - INFO - Найти баннер Сила в людях
+2025-04-22 01:25:00,046 - INFO - Найти Подробнее и кликнуть по нему
+2025-04-22 01:25:08,577 - INFO - Проверка URL адреса
+2025-04-22 01:25:09,178 - INFO - Проверка размера фотографий
+2025-04-22 01:25:10,361 - INFO - Перый сценарий зевершен успешно
