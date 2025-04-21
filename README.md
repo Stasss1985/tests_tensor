@@ -1,1 +1,1 @@
-# tests_tensor
+# tests_ui_tensor
